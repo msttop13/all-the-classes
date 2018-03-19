@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<table border="1" bgcolor="#FF7F50">
+<tr>
+  <th></th>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+<tr>
+  <th>12:10-12:40</th>
+  <td>ECON 170-01<br/>Intermediate Microeconomics<br/>3 credits<br/>Omari Swinton</td>
+  <td></td>
+  <td>ECON 170-01<br/>Intermediate Microeconomics<br/>3 credits<br/>Omari Swinton</td>
+  <td></td>
+  <td>ECON 170-01<br/>Intermediate Microeconomics<br/>3 credits<br/>Omari Swinton</td> 
+</tr>
+<tr>
+  <th>12:40-2:00</th>
+  <td>INFO 398-01<br />Information Systems Consulting<br /> 3 credits<br />Carlos Buskey</td>
+  <td></td>
+  <td>INFO 398-01<br />Information Systems Consulting<br /> 3 credits<br />Carlos Buskey</td>
+  <td></td>
+  <td></td>  
+</tr>
+<tr>
+  <th>2:00-3:40</th>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>  
+</tr>
+<tr>
+  <th>3:40-:5:00</th>
+  <td>INFO 387-01<br />Web Authoring Tools<br /> 3 credits<br />AJ Henley</td>
+  <td>AFRO 128-01<br />Hip-Hop<br /> 3 credits<br />Greg Carr</td>
+  <td>INFO 387-01<br />Web Authoring Tools<br /> 3 credits<br />AJ Henley</td>
+  <td>AFRO 128-01<br />Hip-Hop<br /> 3 credits<br />Greg Carr</td>
+  <td></td>  
+</tr>
+<tr>
+  <th>5:10-6:30</th>
+  <td></td>
+  <td>MGMT 026-01<br />Honors<br /> 1 credit<br />Kanika Magee</td>
+  <td></td>
+  <td>MGMT 026-01<br />Honors<br /> 1 credit<br />Kanika Magee</td>
+  <td></td>  
+</tr>
+</table>
+</body>
+</html>
